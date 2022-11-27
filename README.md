@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is a project dashboard with Django + Folium :earth_americas:
+Here is a dashboard with Django + Folium :earth_americas:
 https://www.figma.com/file/TR1xtWex58mcmWzmSbQEP3/Clusters-and-KPIs?node-id=0%3A1&t=jZO0dtKSGPrSZZhb-0
 
 Currently I'm working on API for grocery store as my training project
