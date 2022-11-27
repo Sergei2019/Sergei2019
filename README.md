@@ -22,6 +22,6 @@ Stack:
 - Python
 - Django
 - Docker
-- Postrgres SQL
+- Postgres SQL
 - Fast API
 - HTML, CSS basics 
