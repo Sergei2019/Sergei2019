@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Stack:
+My stack:
 - Python
 - Django
+- Flask
 - Docker
 - PostgreSQL
 - Fast API
