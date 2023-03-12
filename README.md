@@ -31,5 +31,5 @@ My stack:
 - Flask
 - Docker
 - PostgreSQL
-- Fast API
+- Fast API/Starlette
 - HTML, CSS basics 
