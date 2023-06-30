@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 My stack:
 - Python
 - Django
-- Flask
 - Docker
 - PostgreSQL
-- Fast API/Starlette
-- HTML, CSS basics 
+- Fast API
