@@ -24,4 +24,3 @@ My stack:
 - Docker
 - PostgreSQL
 - Fast API
-- Flask
