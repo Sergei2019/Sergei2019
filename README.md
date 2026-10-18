@@ -24,3 +24,4 @@ My stack:
 - Docker
 - PostgreSQL
 - Fast API
+- Go
